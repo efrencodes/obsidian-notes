@@ -17,7 +17,7 @@ Every company has a few filters during interviews:
 - Behavioral Interview (experience)
 	- Cracking the behavioral interview
 	- STAR answer type
-		- [[Questions for interviews]]
+		- [[Questions]]
 - Cultural fit
 	- Cultural add
 	- bar raiser
@@ -27,4 +27,3 @@ Every company has a few filters during interviews:
 	- Leadership examples
 	- if you work here tomorrow, what would you do?
 
-[[Improve Resume]]
