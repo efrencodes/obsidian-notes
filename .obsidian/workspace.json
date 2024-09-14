@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "beed0d120accc4ea",
+        "id": "593ff4e95d67d8cc",
         "type": "tabs",
         "children": [
           {
-            "id": "cdfafc1e0838b3c3",
+            "id": "1aa94068ac929b03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e953d522e8436c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skill matrix.md",
+                "file": "General/Skill matrix..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill matrix.md",
+                "file": "General/Skill matrix..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill matrix.md",
+                "file": "General/Skill matrix..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill matrix.md"
+                "file": "General/Skill matrix..md"
               }
             }
           }
@@ -153,21 +140,23 @@
     "hiddenItems": {
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
+      "canvas:Crear nuevo lienzo": true,
+      "daily-notes:Abrir la nota de hoy": true,
+      "templates:Insertar plantilla": true,
       "command-palette:Abrir paleta de comandos": false,
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "e953d522e8436c7f",
+  "active": "1aa94068ac929b03",
   "lastOpenFiles": [
     "Questions for interviews.md",
-    "Skill matrix.md",
-    "Filters.md",
+    "Types of Filters.md",
+    "General/Skill matrix..md",
+    "General",
+    "Sin título.canvas",
+    "2024-09-13.md",
     "Sin título 2.canvas",
     "Sin título 3.canvas",
-    "Sin título 1.canvas",
-    "Sin título.canvas"
+    "Sin título 1.canvas"
   ]
 }
