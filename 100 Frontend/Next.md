@@ -1,8 +1,13 @@
 ## Manejo de parámetros en rutas en Next.js
 
-Para crear una pagina dinamica debemos nombrar la carpeta con corchetes:
+Para crear una página dinamica debemos nombrar la carpeta con corchetes:
 
-![[Untitled.png]]
+```
+- pages
+	- [category]
+		- page.tsx
+
+```
 
 Para tomar el params desde el page.
 
@@ -23,9 +28,14 @@ Abrir en el navegador [http://localhost:3000/store/videojuegos](http://localhost
 
 ### Segmentos dinamicos
 
-Para crear un segmentos dinamico debemos nombrar la carpeta con corchetes y tres puntos: 
+Para crear un segmentos dinamico debemos nombrar la carpeta con corchetes y tres puntos:
 
-![[Untitled 1.png]]
+```
+- tienda
+	- [...categories]
+		- page.tsx
+
+```
 
 Para tomar el params desde el page: 
 
@@ -49,7 +59,11 @@ Abrir en el navegador [http://localhost:3000/tienda/videojuegos/nintendo/switch/
 
 Para crear un segmentos dinamico debemos nombrar la carpeta con doble corchete y tres puntos: 
 
-![[Untitled 2.png]]
+```
+- ecommerce \ [[categories]]
+	- page.tsx
+
+```
 
 Para tomar el params desde el page: 
 
@@ -106,7 +120,6 @@ NEXT_PUBLIC_ANALYTICS_ID=abcdefghijk
 
 ## **Implementando páginas de Not Found y error globalClase**
 
-![[Untitled 3.png]]
 
 La página de error debe exportar como function y como componente de cliente.
 
