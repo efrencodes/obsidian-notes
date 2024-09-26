@@ -11,15 +11,24 @@
             "id": "cc4174ec683ab9e4",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ed254036a7bc790",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Frontend/React Native.md",
+                "file": "Feedback.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Frontend/React Native.md",
+                "file": "Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Frontend/React Native.md",
+                "file": "Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Frontend/React Native.md"
+                "file": "Feedback.md"
               }
             }
           },
@@ -157,19 +166,33 @@
   },
   "active": "7597370b6cbdebea",
   "lastOpenFiles": [
-    "100 Frontend/Next.md",
-    "100 Frontend/Javascript.md",
-    "100 Frontend/Frontend.md",
-    "100 Frontend/React Hooks.md",
+    "Design pattern - Guard clause.md",
+    "100 Tech/100.01 React/useMemo.md",
+    "100 Tech/React Native.md",
+    "100 Tech/Next.md",
+    "100 Tech/Javascript.md",
+    "Jonny Decimal.md",
+    "Sin nombre",
+    "100 Tech/100.01 React/useReducer.md",
+    "100 Tech/100.01 React/useRef.md",
+    "100 Tech/100.01 React/useState.md",
+    "100 Tech/Frontend.md",
+    "100 Tech/100.01 React/Que es un hook.md",
+    "100 Tech/100.01 React/useCallback.md",
+    "100 Tech/100.01 React/React.md",
+    "100 Tech/100.01 React/Memoization.md",
+    "100 Tech/100.01 React/useContext.md",
+    "100 Tech/100.01 React/useEffect.md",
+    "100 Tech/100.01 React",
+    "200 Writing/200-10 Blog",
+    "200 Writing",
     "100 Frontend/Untitled 2.png",
     "100 Frontend/Untitled.png",
     "100 Frontend/Untitled 3.png",
     "100 Frontend/Untitled 1.png",
-    "100 Frontend/React Native.md",
     "Habilidades Blandas.md",
     "Feedback.md",
-    "100 Frontend",
-    "Design pattern - Guard clause.md",
+    "100 Tech",
     "Questions.md",
     "Pattern - Backends for Frontends.md",
     "Tips Resume.md",
