@@ -1,9 +1,3 @@
----
-tags:
-  - improve
----
-# Skill matrix
-
 Herramienta visual para identificar las herramientas y/o conocimientos, soft skills, que se necesita dentro de una área o departamento. Y evaluar esos conocimientos con ciertos niveles o parametros. Donde luego podemos construir un path personalizado.
 
 > Esta pensado para todo el equipo.

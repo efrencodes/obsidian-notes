@@ -1,7 +1,3 @@
----
-tags:
-  - improve
----
 # Tech Interview Handbook
 
 ### General

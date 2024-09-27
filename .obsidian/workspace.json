@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "67ce179531245a60",
+        "id": "85c0cb5010f1bbd1",
         "type": "tabs",
         "children": [
           {
-            "id": "cc4174ec683ab9e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ed254036a7bc790",
+            "id": "762b3cd57a7a6bcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feedback.md",
+                "file": "Design pattern - Guard clause.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 207.5
   },
   "right": {
     "id": "6226a962d28ec235",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feedback.md",
+                "file": "Design pattern - Guard clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feedback.md",
+                "file": "Design pattern - Guard clause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feedback.md"
+                "file": "Design pattern - Guard clause.md"
               }
             }
           },
@@ -151,54 +142,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": true,
-      "daily-notes:Abrir la nota de hoy": true,
-      "templates:Insertar plantilla": true,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7597370b6cbdebea",
+  "active": "762b3cd57a7a6bcd",
   "lastOpenFiles": [
-    "Design pattern - Guard clause.md",
-    "100 Tech/100.01 React/useMemo.md",
+    "Feedback.md",
+    "Habilidades Blandas.md",
+    "Interviews.md",
+    "Jonny Decimal.md",
+    "Pattern - Backends for Frontends.md",
+    "Questions.md",
+    "Skill matrix.md",
+    "Tips Resume.md",
+    "Types of Filters.md",
     "100 Tech/React Native.md",
     "100 Tech/Next.md",
     "100 Tech/Javascript.md",
-    "Jonny Decimal.md",
-    "Sin nombre",
-    "100 Tech/100.01 React/useReducer.md",
-    "100 Tech/100.01 React/useRef.md",
-    "100 Tech/100.01 React/useState.md",
     "100 Tech/Frontend.md",
-    "100 Tech/100.01 React/Que es un hook.md",
+    "100 Tech/100.01 React/useState.md",
+    "100 Tech/100.01 React/useRef.md",
+    "100 Tech/100.01 React/useReducer.md",
+    "100 Tech/100.01 React/useMemo.md",
+    "100 Tech/100.01 React/useEffect.md",
+    "100 Tech/100.01 React/useContext.md",
     "100 Tech/100.01 React/useCallback.md",
     "100 Tech/100.01 React/React.md",
+    "100 Tech/100.01 React/Que es un hook.md",
     "100 Tech/100.01 React/Memoization.md",
-    "100 Tech/100.01 React/useContext.md",
-    "100 Tech/100.01 React/useEffect.md",
     "100 Tech/100.01 React",
-    "200 Writing/200-10 Blog",
-    "200 Writing",
-    "100 Frontend/Untitled 2.png",
-    "100 Frontend/Untitled.png",
-    "100 Frontend/Untitled 3.png",
-    "100 Frontend/Untitled 1.png",
-    "Habilidades Blandas.md",
-    "Feedback.md",
     "100 Tech",
-    "Questions.md",
-    "Pattern - Backends for Frontends.md",
-    "Tips Resume.md",
-    "Types of Filters.md",
-    "Skill matrix.md",
-    "Interviews.md",
+    "Design pattern - Guard clause.md",
+    "2024-09-19.md",
     "General",
     "Sin título.canvas",
     "2024-09-13.md",

@@ -1,9 +1,3 @@
----
-tags:
-  - improve
----
-# Types of Filters
-
 Every company has a few filters during interviews:
 
 - Code interview
@@ -13,16 +7,16 @@ Every company has a few filters during interviews:
 	- Hacker rank
 - System Design (architecture)
 	- Design Data intensive applications book
-	- the system design Primer
+	- The system design Primer
 - Behavioral Interview (experience)
 	- Cracking the behavioral interview
 	- STAR answer type
 		- [[Questions]]
 - Cultural fit
 	- Cultural add
-	- bar raiser
-	- team work
-	- values that resonate
+	- Bar raiser
+	- Team work
+	- Values that resonate
 - Management Interwiew
 	- Leadership examples
 	- if you work here tomorrow, what would you do?
