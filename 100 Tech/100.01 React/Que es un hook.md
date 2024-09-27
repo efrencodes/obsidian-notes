@@ -23,15 +23,15 @@ El patrón Hook, es una API de React que nos van a permitir usar el estado y otr
 
     - useLayoutEffect
 
-    - useDebugValue
+    - [[useDebugValue]]
     
 	- useDeferredValue
 
 	* useTransition
 
-	* useId
+	* [[useId]]
 
-	* useSyncExternalStore
+	* [[useSyncExternalStore]]
 
 	* useInsertionEffect
 
