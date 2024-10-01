@@ -11,7 +11,7 @@ Every company has a few filters during interviews:
 - Behavioral Interview (experience)
 	- Cracking the behavioral interview
 	- STAR answer type
-		- [[Questions]]
+		- Questions
 - Cultural fit
 	- Cultural add
 	- Bar raiser

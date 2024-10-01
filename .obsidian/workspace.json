@@ -4,34 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e8c862037f02ba5f",
+        "id": "36a3f1cd9129a981",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3a8dd12247bf58",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "0415383a4f0b56bb",
+            "id": "89722ba5887320bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Types of Filters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ReactHook",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Types of Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Types of Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Types of Filters.md"
               }
             }
           },
@@ -167,8 +155,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0415383a4f0b56bb",
+  "active": "89722ba5887320bb",
   "lastOpenFiles": [
+    "Tips Resume.md",
+    "Skill matrix.md",
+    "Questions.md",
+    "Pattern - Backends for Frontends.md",
+    "Jonny Decimal.md",
+    "Habilidades Blandas.md",
+    "Feedback.md",
+    "Design pattern - Guard clause.md",
+    "100 Tech/React Native.md",
+    "conflict-files-obsidian-git.md",
+    "100 Tech/Next.md",
+    "100 Tech/Javascript.md",
+    "Types of Filters.md",
     "Interviews.md",
     "100 Tech/100.01 React/Hooks/useSyncExternalStore.md",
     "100 Tech/100.01 React/Hooks/useState.md",
@@ -181,19 +182,6 @@
     "100 Tech/100.01 React/Hooks/useContext.md",
     "100 Tech/100.01 React/Hooks/useCallback.md",
     "100 Tech/100.01 React/Hooks",
-    "conflict-files-obsidian-git.md",
-    "Design pattern - Guard clause.md",
-    "Feedback.md",
-    "Habilidades Blandas.md",
-    "Jonny Decimal.md",
-    "Pattern - Backends for Frontends.md",
-    "Questions.md",
-    "Skill matrix.md",
-    "Tips Resume.md",
-    "Types of Filters.md",
-    "100 Tech/React Native.md",
-    "100 Tech/Next.md",
-    "100 Tech/Javascript.md",
     "100 Tech/100.01 React/useContext.md",
     "100 Tech/Frontend.md",
     "Sin nombre",
