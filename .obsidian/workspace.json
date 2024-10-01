@@ -11,11 +11,10 @@
             "id": "9b3a8dd12247bf58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Design pattern - Guard clause.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design pattern - Guard clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design pattern - Guard clause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Design pattern - Guard clause.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,6 +152,7 @@
   },
   "active": "9b3a8dd12247bf58",
   "lastOpenFiles": [
+    "Design pattern - Guard clause.md",
     "Feedback.md",
     "Habilidades Blandas.md",
     "Jonny Decimal.md",
@@ -166,7 +162,6 @@
     "Skill matrix.md",
     "Tips Resume.md",
     "Types of Filters.md",
-    "Design pattern - Guard clause.md",
     "100 Tech/React Native.md",
     "100 Tech/Next.md",
     "100 Tech/Javascript.md",
