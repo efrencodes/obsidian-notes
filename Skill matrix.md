@@ -15,4 +15,3 @@ Para los niveles de la skill matrix se pueden definir de la siguiente manera:
 - Level 3 ⇒ Capaz de realizar tareas sin supervisión.
 - Level 4 ⇒ Capaz de mentorear a otros. Desbloquear trabajo.
 
-#improve 

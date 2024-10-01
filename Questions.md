@@ -1,7 +1,3 @@
----
-tags:
-  - improve
----
 # Self introduction
 
 - Como ha sido tu experiencia
