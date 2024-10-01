@@ -1,9 +1,3 @@
----
-tags:
-  - improve
----
-# Types of Filters
-
 Every company has a few filters during interviews:
 
 - Code interview
@@ -27,3 +21,5 @@ Every company has a few filters during interviews:
 	- Leadership examples
 	- if you work here tomorrow, what would you do?
 
+
+#interviews

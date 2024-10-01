@@ -84,3 +84,6 @@ Formas de evitar la disonancia cognitiva
 4. Garantizar que el feedback llegue varias veces por diferentes canales.
 
 https://psicologiaymente.com/psicologia/disonancia-cognitiva-teoria-autoengano
+
+#improve 
+#softSkills 

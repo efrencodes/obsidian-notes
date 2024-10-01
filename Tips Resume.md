@@ -1,7 +1,3 @@
----
-tags:
-  - improve
----
 # Tech Interview Handbook
 
 ### General
@@ -102,3 +98,5 @@ Front End Engineer at Lyft
 
 "Hi I'm XXX and I graduated from National University of Singapore in 2015 with a degree in Computer Science. My interests are in Front End Engineering and I love to create beautiful performant products with delightful user experiences. I previously worked at Grab where I led the Grab for Work project. Grab for Work was a service for companies to make corporate transportation expenses convenient. Companies can create employee groups, set ride policies and share corporate payment methods with their employees. I built the project with another engineer over the period of 3 months on a React/Redux and Golang stack." I'm interested in the Front End Engineer role at Lyft because I like working in this ridesharing space and creating products to improve the lives of users.
 
+
+#interviews 

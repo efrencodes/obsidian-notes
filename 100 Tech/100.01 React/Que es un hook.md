@@ -36,3 +36,6 @@ El patrón Hook, es una API de React que nos van a permitir usar el estado y otr
 	* useInsertionEffect
 
 https://mauriciogc.medium.com/react-hooks-usestate-useeffect-usecontext-parte-i-f8cc8c9cce0f
+
+#React 
+#ReactHook

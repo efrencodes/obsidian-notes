@@ -105,3 +105,6 @@ Mejora practicando. Esfuerzate física y mentalmente cada momento. Enfocate en l
 - Recibir feedback positivo
 - Te sientes comodo o cómoda
 - Puedes crear cosas nuevas
+
+#softSkills
+#improve 

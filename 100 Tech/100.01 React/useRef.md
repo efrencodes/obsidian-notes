@@ -46,3 +46,6 @@ const Characters = () => {
 export default Characters
 
 ```
+
+#React 
+#ReactHook 
