@@ -1,7 +1,3 @@
 
 
 
-
-[[Que es un hook]]
-
-

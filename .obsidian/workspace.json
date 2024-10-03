@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd39b4fb2a3dc93",
+        "id": "ee265c6bf4fbbc01",
         "type": "tabs",
         "children": [
           {
-            "id": "8a3c4c8af9e62cde",
+            "id": "5bdf46e6ca540b42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rapid Planning Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7331cd4d98859af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo de retroalimentacion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ad56af3f7b2e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pomodoro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ReactHook",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pomodoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pomodoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pomodoro.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,34 +147,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9ad56af3f7b2e10",
+  "active": "5bdf46e6ca540b42",
   "lastOpenFiles": [
+    "Habilidades Blandas.md",
+    "100 Tech/100.01 React/Hooks/useDebugValue.md",
+    "100 Tech/100.01 React/Hooks/useSyncExternalStore.md",
+    "100 Tech/100.01 React/Hooks/useId.md",
+    "100 Tech/100.01 React/Que es un hook.md",
+    "Path Cracking the Coding Interview.md",
+    "Types of Filters.md",
+    "Pomodoro.md",
     "Ciclo de retroalimentacion.md",
     "Design pattern - Guard clause.md",
     "Rapid Planning Method.md",
-    "Pomodoro.md",
-    "Types of Filters.md",
     "Tips Resume.md",
     "Skill matrix.md",
     "Questions.md",
     "Pattern - Backends for Frontends.md",
     "Jonny Decimal.md",
-    "Habilidades Blandas.md",
     "Feedback.md",
     "100 Tech/React Native.md",
     "conflict-files-obsidian-git.md",
     "100 Tech/Next.md",
     "100 Tech/Javascript.md",
     "Interviews.md",
-    "100 Tech/100.01 React/Hooks/useSyncExternalStore.md",
     "100 Tech/100.01 React/Hooks/useState.md",
     "100 Tech/100.01 React/Hooks/useRef.md",
     "100 Tech/100.01 React/Hooks/useReducer.md",
     "100 Tech/100.01 React/Hooks/useMemo.md",
-    "100 Tech/100.01 React/Hooks/useId.md",
-    "100 Tech/100.01 React/Hooks/useEffect.md",
-    "100 Tech/100.01 React/Hooks/useDebugValue.md",
-    "100 Tech/100.01 React/Hooks/useContext.md",
     "100 Tech/100.01 React/Hooks",
     "Sin nombre",
     "100 Tech/100.01 React",
