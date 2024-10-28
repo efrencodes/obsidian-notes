@@ -11,8 +11,14 @@
             "id": "5bdf46e6ca540b42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pomodoro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pomodoro"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 Tech/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Javascript"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Tech/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Javascript"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 Tech/Javascript.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Javascript"
             }
           },
           {
@@ -126,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -134,47 +160,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": true,
-      "daily-notes:Abrir la nota de hoy": true,
-      "templates:Insertar plantilla": true,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "5bdf46e6ca540b42",
   "lastOpenFiles": [
+    "Feedback.md",
+    "Design pattern - Guard clause.md",
+    "Ciclo de retroalimentacion.md",
+    "100 Tech/React Native.md",
+    "100 Tech/Next.md",
+    "100 Tech/Javascript.md",
+    "100 Tech/100.01 React/Que es un hook.md",
+    "100 Tech/100.01 React/Memoization.md",
+    "Types of Filters.md",
+    "Tips Resume.md",
+    "Skill matrix.md",
+    "Rapid Planning Method.md",
+    "Pomodoro.md",
+    "Pattern - Backends for Frontends.md",
+    "Path Cracking the Coding Interview.md",
+    "Jonny Decimal.md",
     "Habilidades Blandas.md",
     "100 Tech/100.01 React/Hooks/useDebugValue.md",
     "100 Tech/100.01 React/Hooks/useSyncExternalStore.md",
     "100 Tech/100.01 React/Hooks/useId.md",
-    "100 Tech/100.01 React/Que es un hook.md",
-    "Path Cracking the Coding Interview.md",
-    "Types of Filters.md",
-    "Pomodoro.md",
-    "Ciclo de retroalimentacion.md",
-    "Design pattern - Guard clause.md",
-    "Rapid Planning Method.md",
-    "Tips Resume.md",
-    "Skill matrix.md",
     "Questions.md",
-    "Pattern - Backends for Frontends.md",
-    "Jonny Decimal.md",
-    "Feedback.md",
-    "100 Tech/React Native.md",
     "conflict-files-obsidian-git.md",
-    "100 Tech/Next.md",
-    "100 Tech/Javascript.md",
     "Interviews.md",
     "100 Tech/100.01 React/Hooks/useState.md",
     "100 Tech/100.01 React/Hooks/useRef.md",
     "100 Tech/100.01 React/Hooks/useReducer.md",
-    "100 Tech/100.01 React/Hooks/useMemo.md",
     "100 Tech/100.01 React/Hooks",
     "Sin nombre",
     "100 Tech/100.01 React",
