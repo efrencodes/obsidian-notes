@@ -47,5 +47,4 @@ export default Characters
 
 ```
 
-#React 
 #ReactHook 

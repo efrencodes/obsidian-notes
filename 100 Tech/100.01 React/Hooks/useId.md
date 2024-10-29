@@ -22,5 +22,4 @@ function Form() {
 
 * No utilizar para generar keys, es recomendable para elementos html.
 
-#React 
 #ReactHook 

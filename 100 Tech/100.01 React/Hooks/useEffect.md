@@ -66,5 +66,4 @@ export default function Welcome() {
 
 ```
 
-#React 
 #ReactHook 
