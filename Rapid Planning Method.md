@@ -15,4 +15,3 @@ M => Mapa
 
 
 #improve
-#timeManagement
